@@ -1,0 +1,1 @@
+print("Financial Technical Analysis")
