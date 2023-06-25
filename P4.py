@@ -1,1 +1,1 @@
-print("SQL Data Analytics with python")
+print("SQL Data Analytics with Python")
