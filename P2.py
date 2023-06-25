@@ -1,1 +1,1 @@
-print("Business Intelligence tools")
+print("Business Intelligence Tools")
